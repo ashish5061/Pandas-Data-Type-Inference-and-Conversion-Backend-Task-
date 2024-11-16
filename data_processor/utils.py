@@ -1,7 +1,6 @@
 import pandas as pd
 from dateutil import parser
 from datetime import datetime
-import arrow
 import string
 import warnings
 from typing import List, Dict, Tuple
